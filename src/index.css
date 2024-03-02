@@ -1,0 +1,38 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #d6d2d2;
+  --Header-color: #1e7e91 ;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.header-color{
+  background-color: var(--Header-color);
+}
+
+header {
+  height: 300px;
+  
+}
+
+.my-svg {
+  opacity: 0.5;
+}
+
+h1 {
+  font-size: 3.2em;
+  
+}
+

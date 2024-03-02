@@ -1,0 +1,46 @@
+
+[
+  {
+    "Nombre": "Max",
+    "Edad": "3 años",
+    "Raza": "Labrador Retriever",
+    "Descripcion": "Max es un perro cariñoso y juguetón. Le encanta jugar a buscar la pelota y dar largos paseos por el parque.",
+    "Imagen": "../../src/assets/data/img/Perrito01.png"
+  },
+
+  {
+    "Nombre": "Luna",
+    "Edad": "6 Meses",
+    "Raza": "Pekines",
+    "Descripcion": "Luna es una perra inteligente y ágil. Le encanta aprender nuevos trucos y correr por el campo.",
+    "Imagen": "../../src/assets/data/img/Perrito02.png"
+  },
+  {
+    "Nombre": "Cookie",
+    "Edad": "1 años",
+    "Raza": "Mestizo",
+    "Descripcion": "Se considera un perrito temperamental, alerta y siempre amable. Sus principales carácterísticas son valiente, inteligente, vigilante, atento muy despierto.",
+    "Imagen": "../../src/assets/data/img/Perrito03.png"
+  },
+  {
+    "Nombre": "Luffy",
+    "Edad": "1 años",
+    "Raza": "Pastor Catalán",
+    "Descripcion": "Pastor Catalán blanca, la raza Pastor Catalán es de origen español, son perros de caza, muy apegados a sus dueños y obedientes, además muy inteligentes y que cuidan su manada. ",
+    "Imagen": "../../src/assets/data/img/Perrito04.png"
+  },
+  {
+    "Nombre": "Malteada",
+    "Edad": "2 años",
+    "Raza": "Mestizo",
+    "Descripcion": " Amoroso, bonachón, amable, se impone por presencia, inteligente, es muy bien portado, le gusta acompañar y pasear.  Al principio un poco tímido.",
+    "Imagen": "../../src/assets/data/img/Perrito05.png"
+  },
+  {
+    "Nombre": "Mati",
+    "Edad": "2 años",
+    "Raza": "Braco Húngaro",
+    "Descripcion": " Está esterilizada, desparasitada, vacunada y chipeada; con el certificado de chip su adoptante debe inscribirla en el Registro Nacional de Mascotas.",
+    "Imagen": "../../src/assets/data/img/Perrito06.png"
+  }
+]
