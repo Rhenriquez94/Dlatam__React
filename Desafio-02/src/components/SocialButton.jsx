@@ -2,7 +2,7 @@
 
 const SocialButton = ({icon, platform} ) => {
   return (
-    <button className="social-button">
+    <button className="social-button mb-2">
       <img src={icon} alt={`${platform} icon`} />
     </button>
   );

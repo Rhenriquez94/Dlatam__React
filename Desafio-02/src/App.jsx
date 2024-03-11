@@ -1,5 +1,6 @@
 /* eslint-disable no-undef */
 import Registro from './components/Registro';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 function App() {
@@ -7,10 +8,13 @@ function App() {
 
   return (
     <>
-      <div>
-        <Registro />
+      <h2>Crea Tu Cuenta</h2>
+    
+      <div className="border shadow p-4 rounded">
+        <Registro  />
       </div>
     </>
+
   )
 }
 

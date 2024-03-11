@@ -64,18 +64,13 @@ const Formulario = () => {
       return;
     }
 
-    // Si pasa todas las validaciones
-    console.log('Nombre:', nombre);
-    console.log('Email:', email);
-    console.log('Password:', password);
-    console.log('Confirmación de Password:', confirmPassword);
 
     setAlertaError(false); // Asegúrate de ocultar la alerta de error si está visible
     setAlertaOk(true);
   };
 
   return (
-    <Form onSubmit={handleSubmit}>
+    <Form onSubmit={handleSubmit} >
     <Form.Group className="mb-3" controlId="formBasicNombre">
       <Form.Control
         value={nombre}
